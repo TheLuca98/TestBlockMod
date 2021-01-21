@@ -1,0 +1,5 @@
+{
+  "block.testblockmod.test_block": "Test Block",
+  "message.testblockmod.state_plus": "Increased value of Test Block (now %d)",
+  "message.testblockmod.state_minus": "Decreased value of Test Block (now %d)"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "test-block-mod",
+  "version": "${version}",
+  "name": "Test Block Mod",
+  "license": "Unlicense",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.theluca98.fabric.testblock.TestBlockMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "fabric": "*",
+    "minecraft": "1.16.4"
+  }
+}
